@@ -9,11 +9,11 @@ This project encompasses a comprehensive set of sales analytics reports for Atli
 - [Top 10 Products](): Identifies the top 10 best-selling products.
 - [Division Level Report](): Offers insights at the division level.
 - [Top and Bottom 5 Products](): Highlights the top and bottom 5 products.
-- [Top 5 Countries in Fiscal Year 2021](): Lists the top 5 countries by sales in FY 2021.
-- [P&L (Profit and Loss) by Fiscal Year](): Detailed profit and loss analysis by fiscal year.
-- [P&L by Fiscal Months](): Monthly profit and loss breakdown.
-- [GM% (Gross Margin %) by Quarters for Sub-Zone](): Gross margin percentage by quarters for each sub-zone.
-- [P&L by Market](): Market-specific profit and loss analysis.
+- [Top 5 Countries in 2021](): Lists the top 5 countries by sales in FY 2021.
+- [New Products 2021](): Lists the new products that AtliQ began selling in 2021.
+- [P&L by Fiscal Year](): Detailed profit and loss analysis by fiscal year.
+- [GM% by Quarters for Sub-Zone](): Gross margin percentage by quarters for each sub-zone.
+- [P&L by Markets](): Market-specific profit and loss analysis.
 
 ## Tools and Techniques
 - MS Excel: The primary tool used for data analysis and report creation.
