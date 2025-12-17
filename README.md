@@ -6,7 +6,7 @@ This project encompasses a comprehensive set of sales analytics reports for Atli
 ## Reports Created
 - [Customer Performance Report](): Analyzes individual customer performance.
 - [Market Performance vs Target](): Compares market performance against set targets.
-- [Top 10 Products](): Identifies the top 10 best-selling products.
+- [Top 10 Products](https://github.com/Ankush2312/Excel-Atliq-Sales-Analytics/blob/main/AtliQ_Performance_Report.pdf): Identifies the top 10 best-selling products.
 - [Division Level Report](): Offers insights at the division level.
 - [Top and Bottom 5 Products](): Highlights the top and bottom 5 products.
 - [Top 5 Countries in 2021](): Lists the top 5 countries by sales in FY 2021.
